@@ -29,7 +29,6 @@ Register Number: 212223240154
 
 i) Original Image
 ```python
-# To show the original image and to find the shape of the image
 import cv2
 import numpy as np
 img = cv2.imread('cat.jpg',-1)
